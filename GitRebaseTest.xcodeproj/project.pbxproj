@@ -15,6 +15,8 @@
 		15BC7AD327432BE5007F1476 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BC7AA827432BE3007F1476 /* ContentView.swift */; };
 		15BC7AD427432BE5007F1476 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15BC7AA927432BE5007F1476 /* Assets.xcassets */; };
 		15BC7AD527432BE5007F1476 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15BC7AA927432BE5007F1476 /* Assets.xcassets */; };
+		15BC7AE927432CAE007F1476 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BC7AE827432CAE007F1476 /* Test.swift */; };
+		15BC7AEA27432CAE007F1476 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BC7AE827432CAE007F1476 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		15BC7AC927432BE5007F1476 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15BC7ACD27432BE5007F1476 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		15BC7ACF27432BE5007F1476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15BC7AE827432CAE007F1476 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,7 @@
 				15BC7AA727432BE3007F1476 /* GitRebaseTestApp.swift */,
 				15BC7AA827432BE3007F1476 /* ContentView.swift */,
 				15BC7AA927432BE5007F1476 /* Assets.xcassets */,
+				15BC7AE827432CAE007F1476 /* Test.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -310,6 +314,7 @@
 			files = (
 				15BC7AD227432BE5007F1476 /* ContentView.swift in Sources */,
 				15BC7AD027432BE5007F1476 /* GitRebaseTestApp.swift in Sources */,
+				15BC7AE927432CAE007F1476 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +324,7 @@
 			files = (
 				15BC7AD327432BE5007F1476 /* ContentView.swift in Sources */,
 				15BC7AD127432BE5007F1476 /* GitRebaseTestApp.swift in Sources */,
+				15BC7AEA27432CAE007F1476 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
